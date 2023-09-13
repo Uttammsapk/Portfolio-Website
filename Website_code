@@ -1,1 +1,48 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="./photostyle.css">
+</head>
+<body>
+    <div class ="container">
+        <div class ="heading">
+            <h3>Photo <span>Gallery</span></h3>
+        </div>
+        <div class ="box">
+            <div class="dream">
+                <img src="./Photos/1.jpg" alt="">
+                <img src="./Photos/2.jpg" alt="">
+                <img src="./Photos/3.jpg" alt="">
+                <img src="./Photos/4.jpg" alt="">
+                <img src="./Photos/5.jpg" alt="">
+                <img src="./Photos/6.jpg" alt="">
+                <img src="./Photos/7.jpg" alt="">
+            </div>
+            <div class="dream">
+                <img src="./Photos/8.jpg" alt="">
+                <img src="./Photos/9.jpg" alt="">
+                <img src="./Photos/10.jpg" alt="">
+                <img src="./Photos/11.jpg" alt="">
+                <img src="./Photos/12.jpg" alt="">
+                <img src="./Photos/13.jpg" alt="">
+                <img src="./Photos/14.jpg" alt="">
+            </div>
+            <div class="dream">
+                <img src="./Photos/15.jpg" alt="">
+                <img src="./Photos/16.jpg" alt="">
+                <img src="./Photos/17.jpg" alt="">
+                <img src="./Photos/18.jpg" alt="">
+                <img src="./Photos/19.jpg" alt="">
+                <img src="./Photos/20.jpg" alt="">
+                <img src="./Photos/21.jpg" alt="">
+            </div>
+        </div>
+        <div class="btn">
+            <a href="./index.html">Thank You!</a>
+        </div>
+    </div>
+</body>
+</html>
